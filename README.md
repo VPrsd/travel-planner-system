@@ -287,21 +287,13 @@ This project follows strict code quality standards:
 
 ## 📈 Roadmap
 
-### v2.1.0 - Q3 2025
+### v2.1.0 - Q4 2025
 - [ ] Real-time collaborative planning
 - [ ] Integration with booking platforms
 - [ ] Advanced weather-based recommendations
 - [ ] Carbon footprint optimization
 
-### v2.2.0 - Q4 2025
-- [ ] Machine learning preference engine
-- [ ] Voice interface support
-- [ ] Offline mode capabilities
-- [ ] Multi-trip coordination
-
-### v3.0.0 - Q1 2026
-- [ ] AR/VR itinerary visualization
-- [ ] Blockchain-based travel verification
+### v2.2.0 - Q1 2026
 - [ ] Quantum route optimization (experimental)
 
 ## 🐛 Known Issues
@@ -309,8 +301,6 @@ This project follows strict code quality standards:
 - High API costs during peak usage periods
 - Limited support for remote/exotic destinations
 - Weather data accuracy decreases beyond 7-day forecasts
-
-See our [Issues](https://github.com/VPrsd/travel-planner-system/issues) page for full tracking.
 
 ## 📄 License
 
@@ -323,19 +313,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google for Gemini API access
 - The open-source community for invaluable tools and libraries
 
-## 📞 Support
-
-- **Documentation**: [Full Documentation](https://docs.travel-planner-system.dev)
-- **Issues**: [GitHub Issues](https://github.com/VPrsd/travel-planner-system/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/VPrsd/travel-planner-system/discussions)
-- **Email**: support@travel-planner-system.dev
-
 ---
 
 <div align="center">
 
 **Made with ❤️ by developers who love to travel**
 
-[⭐ Star this repo](https://github.com/VPrsd/travel-planner-system) • [🐛 Report Bug](https://github.com/VPrsd/travel-planner-system/issues) • [💡 Request Feature](https://github.com/VPrsd/travel-planner-system/issues)
+[⭐ Star this repo](https://github.com/VPrsd/travel-planner-system) 
 
 </div>
